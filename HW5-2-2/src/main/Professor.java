@@ -7,6 +7,12 @@ public class Professor extends Employee{
 	
 	public void publish_course(Course course) {
 		
+		
+		
+	}
+	
+	public void professor(Course[] courses, Exam[] exam, TA ta) {
+		
 	}
 	public void assign_TA(Ta ta) {
 		this.ta = ta
