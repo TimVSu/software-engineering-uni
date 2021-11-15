@@ -8,7 +8,12 @@ public class Department {
 	public Course[] courses;
 	
 	
-	public void department(self.name, self.employee[], self.chair, self.courses[]) {
+	public void department(String name, Employee[] employee, Professor prof, Course[] courses) {
+		this.name = name;
+		this.employee =employee;
+		this.chair = prof;
+		this.courses = courses;
+		
 	}
 }
 	

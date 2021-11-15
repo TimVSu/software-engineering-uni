@@ -30,6 +30,6 @@ public class Course {
 	}
 	
 	public void setTA(TA ta) {
-		this.prof.assignTA(ta);
+		
 	}
 }
