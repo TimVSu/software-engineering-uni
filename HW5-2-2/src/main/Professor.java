@@ -14,11 +14,7 @@ public class Professor extends Employee{
 	public void professor(Course[] courses, Exam[] exam, TA ta) {
 		
 	}
-	public void assign_TA(Ta ta) {
-		this.ta = ta
-		
-		
-	}
+	
 	public void addNewcourse(Course course) {
 		
 	}
