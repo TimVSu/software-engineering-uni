@@ -26,6 +26,7 @@ public class Human extends Player{
 			}
 			i++;
 		}
+		scan.close();
 		return this.score;
 	}
 }
