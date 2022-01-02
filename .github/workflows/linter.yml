@@ -1,6 +1,6 @@
-name Supe-Linter
+name: Supe-Linter
 
-on: [push]
+on: push
 
 jobs:
   super-lint: Lint code base
