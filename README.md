@@ -1,7 +1,7 @@
 ## Master Branch 
-**Testing**
+**Testing** (extra change after creation of myBranch)
 
 
 ## myBranch
 
-_this chang is made in myBranch_
+_this change vs made in myBranch_
