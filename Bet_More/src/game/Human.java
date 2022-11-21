@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Human extends Player{
 	public BetMoreGame bet = new BetMoreGame();
-	
 	@Override
 	public int play() {
 		

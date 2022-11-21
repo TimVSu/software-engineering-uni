@@ -1,0 +1,9 @@
+
+n	java:S116"TRename this field "max_Value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ´Šÿÿÿÿÿ
+i	java:S116"ORename this field "q_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ªŠÎûÿÿÿÿ
+k
+java:S1104"PMake task a static final constant or non-public and provide accessors if needed.(Ê›Êüÿÿÿÿ
+p
+java:S1104"UMake max_Value a static final constant or non-public and provide accessors if needed.(ÿ´Šÿÿÿÿÿ
+k
+java:S1104"PMake q_id a static final constant or non-public and provide accessors if needed.(–ªŠÎûÿÿÿÿ

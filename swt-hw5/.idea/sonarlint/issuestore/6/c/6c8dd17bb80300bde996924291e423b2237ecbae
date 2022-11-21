@@ -1,0 +1,12 @@
+
+n	java:S116"TRename this field "StudentID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îéá…üÿÿÿÿ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+p
+java:S1104"UMake StudentID a static final constant or non-public and provide accessors if needed.(îéá…üÿÿÿÿ
+j
+java:S1104"TMake projects a static final constant or non-public and provide accessors if needed.(ˆ¿Íê
+n
+java:S1104"SMake courses a static final constant or non-public and provide accessors if needed.(’ø‘Ûüÿÿÿÿ
+f
+java:S1104	"PMake exam a static final constant or non-public and provide accessors if needed.(«â³•
