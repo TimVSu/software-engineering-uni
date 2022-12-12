@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢±î²8µŒÂİË0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½¥Àã8·ŒÂİË0
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¹ŒÂİË0
+{
+java:S1104"YMake athleteNumber a static final constant or non-public and provide accessors if needed.(·éé‰şÿÿÿÿ8¹ŒÂİË0
+s
+java:S1104"VMake goldNumber a static final constant or non-public and provide accessors if needed.(×š•8¹ŒÂİË0

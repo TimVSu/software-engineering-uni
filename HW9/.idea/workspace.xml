@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20036f7b-7171-403d-a596-fb6a603b17e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../swt-hw-7-2/src/main/Athletes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swt-hw-7-2/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swt-hw-7-2/src/main/OlympicTeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swt-hw-7-2/src/main/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/repository.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW7-2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW7-2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW7-2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW7-2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW7-2/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW7-2/src/olympicGames/Athletes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW7-2/src/olympicGames/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW7-2/src/olympicGames/OlympicTeams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW7-2/src/olympicGames/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Calendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestFizzBuzz.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ImF5zTlXnBctXpdMceZoTt6nrG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/tim/Documents/Uni/software-engineering/software-engineering-uni/HW9"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20036f7b-7171-403d-a596-fb6a603b17e0" name="Changes" comment="" />
+      <created>1670778672644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670778672644</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

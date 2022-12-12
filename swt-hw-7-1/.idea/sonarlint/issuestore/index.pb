@@ -1,0 +1,19 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+j
+:HouseholdAppliance/src/de/uni/koeln/sse/se/Electronic.java,2/c/2c609e8f9793d3da4b2c44378c9d9acdbabec0ea
+g
+7HouseholdAppliance/src/de/uni/koeln/sse/se/Visitor.java,6/c/6c97ff8733abbfacefa2331dfb4c47fe37930104
+o
+?HouseholdAppliance/src/de/uni/koeln/sse/se/PriceCalculator.java,b/c/bca7d1446a708480ea6fa5a30d4721e5a1449108
+|
+LHouseholdAppliance/src/de/uni/koeln/sse/se/PackagingInstructionAssigner.java,7/0/709f73fbb089a1079c28afc3f3a28d48b8e5a015
+m
+=HouseholdAppliance/src/de/uni/koeln/sse/se/HouseholdItem.java,1/6/1656537cef11a6a68c8a187c202f7ca5ff98351d
+e
+5HouseholdAppliance/src/de/uni/koeln/sse/se/Glass.java,3/f/3fafa749a471d90bd973e7e51af9194941cc66fc
+i
+9HouseholdAppliance/src/de/uni/koeln/sse/se/Furniture.java,0/4/046a2f2e392c6ed11bfd4d5639b24d053e7cd134
+f
+6HouseholdAppliance/src/de/uni/koeln/sse/se/Client.java,5/1/51bd66f8fcbd48eb412dd8e25c10be49076e1e27

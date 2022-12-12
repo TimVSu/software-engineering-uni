@@ -1,0 +1,11 @@
+
+}
+java:S4144"[Update this method so that its implementation is not identical to "getAthletes" on line 16.(–¶Òúÿÿÿÿ8şäøÍ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä‘˜ÿÿÿÿÿ8õ¨ÃİË0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ä‘˜ÿÿÿÿÿ8ø¨ÃİË0
+Œ
+java:S1319	"oThe type of "subOlympicTeams" should be an interface such as "List" rather than the implementation "ArrayList".(É¯Ã¹8ú¨ÃİË0
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8û¨ÃİË0
+x
+java:S1104	"[Make subOlympicTeams a static final constant or non-public and provide accessors if needed.(É¯Ã¹8û¨ÃİË0
